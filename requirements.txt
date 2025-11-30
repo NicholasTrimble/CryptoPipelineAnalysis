@@ -1,0 +1,14 @@
+pandas
+numpy
+streamlit
+requests
+plotly
+sqlalchemy
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+ta
+tableau-api-lib
+beautifulsoup4
